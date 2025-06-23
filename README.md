@@ -1,7 +1,7 @@
 # titanic-analysis
 # 🚢 Titanic Survival Analysis  
 
-![Dashboard Screenshot](![SURVIVORSTOTAL](https://github.com/user-attachments/assets/e9b64bc5-1bc7-4dde-9e57-2bac49e4185b)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/e9b64bc5-1bc7-4dde-9e57-2bac49e4185b)
 
 
 ## Key Insights  
